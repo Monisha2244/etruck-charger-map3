@@ -1,0 +1,2414 @@
+[
+  {
+    "title":"GOFAST Gunzgen Nord",
+    "lat":47.310137,
+    "lon":7.831875,
+    "cluster":0,
+    "country":"Switzerland",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Melide Supercharger",
+    "lat":45.954138,
+    "lon":8.950789,
+    "cluster":1,
+    "country":"Switzerland",
+    "nearest_highway":"A2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Rasthof Luzern Neuenkirch Ost",
+    "lat":47.1133961014,
+    "lon":8.2323536085,
+    "cluster":2,
+    "country":"Switzerland",
+    "nearest_highway":"['Wurmistrasse', 'Gotthardstrasse']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Langkampfen Supercharger",
+    "lat":47.534597,
+    "lon":12.092972,
+    "cluster":3,
+    "country":"Austria",
+    "nearest_highway":"L211",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GOFAST St. Moritz  Auto Mathis AG",
+    "lat":46.4920244228,
+    "lon":9.8332629234,
+    "cluster":4,
+    "country":"Switzerland",
+    "nearest_highway":"Via dal Bagn",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GOFAST ASTRA Pierre Avoi",
+    "lat":46.1252656833,
+    "lon":7.1183311772,
+    "cluster":5,
+    "country":"Switzerland",
+    "nearest_highway":"Route de l'Indivis",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GOFAST ASTRA Grand Chavalard",
+    "lat":46.1220108688,
+    "lon":7.1116570715,
+    "cluster":5,
+    "country":"Switzerland",
+    "nearest_highway":"L'Indivis",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GOFAST ASTRA Pierre Feline Jura",
+    "lat":46.3651773655,
+    "lon":6.1912426622,
+    "cluster":6,
+    "country":"Switzerland",
+    "nearest_highway":"Route de Crassier",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GOFAST ASTRA Pierre Feline Lac",
+    "lat":46.3682545656,
+    "lon":6.1960074257,
+    "cluster":6,
+    "country":"Switzerland",
+    "nearest_highway":"Chemin des Vignes",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Angath Nord",
+    "lat":47.519215,
+    "lon":12.065526,
+    "cluster":3,
+    "country":"Austria",
+    "nearest_highway":"Kreuzweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Bellinzona Nord",
+    "lat":46.2095508486,
+    "lon":9.0265997916,
+    "cluster":7,
+    "country":"Switzerland",
+    "nearest_highway":"A2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Bellinzona S\u00fcd",
+    "lat":46.182242,
+    "lon":9.001796,
+    "cluster":7,
+    "country":"Switzerland",
+    "nearest_highway":"A2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Gotthard Nord",
+    "lat":46.847886,
+    "lon":8.633197,
+    "cluster":8,
+    "country":"Switzerland",
+    "nearest_highway":"A2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Gotthard S\u00fcd",
+    "lat":46.846522,
+    "lon":8.632302,
+    "cluster":8,
+    "country":"Switzerland",
+    "nearest_highway":"A2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Kaiserwald",
+    "lat":46.959244,
+    "lon":15.382045,
+    "cluster":9,
+    "country":"Austria",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Kemptthal",
+    "lat":47.449367,
+    "lon":8.700137,
+    "cluster":10,
+    "country":"Switzerland",
+    "nearest_highway":"A1;A4",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Neuenkirch",
+    "lat":47.113372,
+    "lon":8.232328,
+    "cluster":2,
+    "country":"Switzerland",
+    "nearest_highway":"['Wurmistrasse', 'Gotthardstrasse']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Mitterweg",
+    "lat":47.2580609243,
+    "lon":11.3766665537,
+    "cluster":11,
+    "country":"Austria",
+    "nearest_highway":"Dr.-Stumpf-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Snowball",
+    "lat":50.8226656867,
+    "lon":3.3111191767,
+    "cluster":12,
+    "country":"Belgium",
+    "nearest_highway":"Evolis",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Nassereith",
+    "lat":47.327313,
+    "lon":10.819309,
+    "cluster":13,
+    "country":"Austria",
+    "nearest_highway":"B179",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Bierset",
+    "lat":50.651866,
+    "lon":5.473644,
+    "cluster":14,
+    "country":"Belgium",
+    "nearest_highway":"[\"Rue de l'A\u00e9ropostale\", \"Rue d'Awans\"]",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Total - Ruisbroek Zuidwaarts",
+    "lat":50.778969,
+    "lon":4.299853,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Laekebeeklaan",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Total - Ruisbroek Noordwaarts",
+    "lat":50.777952,
+    "lon":4.301594,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Diepenbeemd",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Le Roeulx \/ Thieu Nord",
+    "lat":50.491056,
+    "lon":4.09575,
+    "cluster":16,
+    "country":"Belgium",
+    "nearest_highway":"N538",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Eneco @ ACB Delta Volvo",
+    "lat":50.8180994684,
+    "lon":4.4050551029,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Boulevard des Invalides - Invalidenlaan",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Raststation Europabr\u00fccke",
+    "lat":47.1972185625,
+    "lon":11.3974608625,
+    "cluster":11,
+    "country":"Austria",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"\u00d6AMTC Fahrzechnikzentrum Zenzenhof",
+    "lat":47.226279,
+    "lon":11.391246,
+    "cluster":11,
+    "country":"Austria",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Autohaus W\u00f6rndle",
+    "lat":47.4227979681,
+    "lon":11.7503176621,
+    "cluster":17,
+    "country":"Austria",
+    "nearest_highway":"B181",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastcharger ENI Gutmann Vomp",
+    "lat":47.3533550619,
+    "lon":11.7006464892,
+    "cluster":17,
+    "country":"Austria",
+    "nearest_highway":"L222",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Rastst\u00e4tte Pettnau (da-emobil)",
+    "lat":47.2845083447,
+    "lon":11.1644832691,
+    "cluster":18,
+    "country":"Austria",
+    "nearest_highway":"Dr. Otto-Keimel-Weg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"H\u00f6pperger (da-emobil)",
+    "lat":47.2918436859,
+    "lon":11.0328885393,
+    "cluster":18,
+    "country":"Austria",
+    "nearest_highway":"Gr\u00f6benweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Centro Porsche Ticino",
+    "lat":45.981129733,
+    "lon":8.9290467952,
+    "cluster":1,
+    "country":"Switzerland",
+    "nearest_highway":"404",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity P\u00e1vov (dir. Brno)",
+    "lat":49.453814,
+    "lon":15.59148,
+    "cluster":19,
+    "country":"Czechia",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ladepark Villach",
+    "lat":46.6040028739,
+    "lon":13.869255433,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"Maria-Gailer-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Raststation Dreil\u00e4nderecke Nord - Arnoldstein",
+    "lat":46.5714260226,
+    "lon":13.6972632825,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"Rastplatz Dreil\u00e4ndereck Nord",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY P\u00e1vov (dir. Prague)",
+    "lat":49.455104,
+    "lon":15.593272,
+    "cluster":19,
+    "country":"Czechia",
+    "nearest_highway":"D1",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Le Roeulx \/ Thieu Sud",
+    "lat":50.487357,
+    "lon":4.096235,
+    "cluster":16,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Froyennes Nord",
+    "lat":50.619572,
+    "lon":3.338944,
+    "cluster":21,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Froyennes Sud",
+    "lat":50.619058,
+    "lon":3.341152,
+    "cluster":21,
+    "country":"Belgium",
+    "nearest_highway":"Rue du Progr\u00e8s",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Wetteren Noord",
+    "lat":50.970743,
+    "lon":3.844233,
+    "cluster":22,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Wetteren Zuid",
+    "lat":50.96948,
+    "lon":3.841191,
+    "cluster":22,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Martigny",
+    "lat":46.127822,
+    "lon":7.059829,
+    "cluster":5,
+    "country":"Switzerland",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ansfelden - Schnelllader Billa",
+    "lat":48.21556,
+    "lon":14.279524,
+    "cluster":23,
+    "country":"Austria",
+    "nearest_highway":"L563",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Raststation Voralpenkreuz - Sattledt",
+    "lat":48.06658,
+    "lon":14.034,
+    "cluster":24,
+    "country":"Austria",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Total - Zolder",
+    "lat":51.0131691181,
+    "lon":5.3322187043,
+    "cluster":25,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Total - Zonhoven",
+    "lat":51.0114926903,
+    "lon":5.3320796837,
+    "cluster":25,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Les Champs-Blancs - Chavannes-de-Bogis",
+    "lat":46.3346416958,
+    "lon":6.1614469259,
+    "cluster":6,
+    "country":"Switzerland",
+    "nearest_highway":"Chemin des Champs Blancs",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastned Supercharger",
+    "lat":52.3094954278,
+    "lon":13.4438285865,
+    "cluster":26,
+    "country":"Germany",
+    "nearest_highway":"Eschenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastned Suhr",
+    "lat":47.380376979,
+    "lon":8.1090582917,
+    "cluster":27,
+    "country":"Switzerland",
+    "nearest_highway":"Ahornweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastned Lenzburg",
+    "lat":47.3928341855,
+    "lon":8.1611428887,
+    "cluster":27,
+    "country":"Switzerland",
+    "nearest_highway":"Industriestrasse",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Rastplatz Teufenbach",
+    "lat":47.3332662764,
+    "lon":7.8213633625,
+    "cluster":0,
+    "country":"Switzerland",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Powerland Ultra Fast EV Charging",
+    "lat":50.9644840263,
+    "lon":3.5487938921,
+    "cluster":28,
+    "country":"Belgium",
+    "nearest_highway":"Kakelstraat",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Mc Donalds",
+    "lat":49.4108036,
+    "lon":8.5437649,
+    "cluster":29,
+    "country":"Germany",
+    "nearest_highway":"Alte Mannheimer Landstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Pendlerparkplatz Wismar-Mitte",
+    "lat":53.8606575387,
+    "lon":11.4390513461,
+    "cluster":30,
+    "country":"Germany",
+    "nearest_highway":"Papierfabrik",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Staufenbergplatz Hannover",
+    "lat":52.34211,
+    "lon":9.69198,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"Goerdelerstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":51.06633,
+    "lon":13.17986,
+    "cluster":32,
+    "country":"Germany",
+    "nearest_highway":"S 39",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Trattendorfer Stra\u00dfe 5",
+    "lat":51.00968,
+    "lon":13.80084,
+    "cluster":33,
+    "country":"Germany",
+    "nearest_highway":"Trattendorfer Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Duisburg\/Bahnhofstra\u00dfe (Meiderich)",
+    "lat":51.4681067,
+    "lon":6.7839969,
+    "cluster":34,
+    "country":"Germany",
+    "nearest_highway":"Am Alten Viehhof",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Heidenau",
+    "lat":50.97124,
+    "lon":13.86661,
+    "cluster":33,
+    "country":"Germany",
+    "nearest_highway":"B\u00f6hmischer Weg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":52.510222,
+    "lon":13.490111,
+    "cluster":35,
+    "country":"Germany",
+    "nearest_highway":"Albert-H\u00f6\u00dfler-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Im Gewerbepark",
+    "lat":49.6272266,
+    "lon":10.9227839,
+    "cluster":36,
+    "country":"Germany",
+    "nearest_highway":"Im Gewerbepark",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Doktor-Scheider-Stra\u00dfe",
+    "lat":51.3016505666,
+    "lon":13.3097491669,
+    "cluster":37,
+    "country":"Germany",
+    "nearest_highway":"S 87",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":50.89347,
+    "lon":12.43255,
+    "cluster":38,
+    "country":"Germany",
+    "nearest_highway":"August-Bebel-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"ComfortchargeLadestation",
+    "lat":52.38427,
+    "lon":13.51035,
+    "cluster":26,
+    "country":"Germany",
+    "nearest_highway":"Kirchstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Elmshorn\/Fernsehturm",
+    "lat":53.74973,
+    "lon":9.68445,
+    "cluster":39,
+    "country":"Germany",
+    "nearest_highway":"B 431",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Troisdorf",
+    "lat":50.81346,
+    "lon":7.12773,
+    "cluster":40,
+    "country":"Germany",
+    "nearest_highway":"Am Annonisbach",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hamburg\/Schmachth\u00e4ger Stra\u00dfe",
+    "lat":53.60375,
+    "lon":10.04841,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"Schmachth\u00e4ger Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hamburg\/Kollaustra\u00dfe",
+    "lat":53.611306,
+    "lon":9.957694,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"B 447",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Leipzig\/Les-Epesses-Stra\u00dfe",
+    "lat":51.2851,
+    "lon":12.46746,
+    "cluster":42,
+    "country":"Germany",
+    "nearest_highway":"Alte Holzhausener Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Quickborn\/Justus-von-Liebig-Ring",
+    "lat":53.73477,
+    "lon":9.9101,
+    "cluster":43,
+    "country":"Germany",
+    "nearest_highway":"Max-Planck-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Mannheim\/Peterskopfstra\u00dfe",
+    "lat":49.46625,
+    "lon":8.47366,
+    "cluster":29,
+    "country":"Germany",
+    "nearest_highway":"Meer\u00e4ckerstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hamburg\/Berner Allee",
+    "lat":53.62851,
+    "lon":10.1347,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"Berner Allee",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":49.900410008,
+    "lon":8.8544569567,
+    "cluster":44,
+    "country":"Germany",
+    "nearest_highway":"Max-Planck-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Bremen\/Utbremer Stra\u00dfe",
+    "lat":53.095611,
+    "lon":8.791333,
+    "cluster":45,
+    "country":"Germany",
+    "nearest_highway":"Utbremer Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - M\u00fchlheim an der Ruhr\/Lehnerstra\u00dfe",
+    "lat":51.40234,
+    "lon":6.8694,
+    "cluster":34,
+    "country":"Germany",
+    "nearest_highway":"Hagenauer Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":50.6226,
+    "lon":12.30393,
+    "cluster":46,
+    "country":"Germany",
+    "nearest_highway":"Trinitatisgasse",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Duisburg\/Weidenweg",
+    "lat":51.43761,
+    "lon":6.75411,
+    "cluster":34,
+    "country":"Germany",
+    "nearest_highway":"Klemensstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Haidt Nord",
+    "lat":49.780852,
+    "lon":10.244797,
+    "cluster":47,
+    "country":"Germany",
+    "nearest_highway":"Gewerbegebiet Haidt",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Ohrenbach Ost",
+    "lat":49.485555,
+    "lon":10.213267,
+    "cluster":48,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Th\u00fcringer Wald Nord",
+    "lat":50.726454,
+    "lon":10.841634,
+    "cluster":49,
+    "country":"Germany",
+    "nearest_highway":"A 71",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Th\u00fcringer Wald S\u00fcd",
+    "lat":50.724708,
+    "lon":10.847168,
+    "cluster":49,
+    "country":"Germany",
+    "nearest_highway":"A 71",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Haidt S\u00fcd",
+    "lat":49.779352,
+    "lon":10.246493,
+    "cluster":47,
+    "country":"Germany",
+    "nearest_highway":"B 22",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Katzenfurt S\u00fcd",
+    "lat":50.620347,
+    "lon":8.362918,
+    "cluster":50,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Ohrenbach West",
+    "lat":49.484491,
+    "lon":10.211978,
+    "cluster":48,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Ostetal Nord",
+    "lat":53.299981,
+    "lon":9.532557,
+    "cluster":51,
+    "country":"Germany",
+    "nearest_highway":"Zur Autobahn",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Ostetal S\u00fcd",
+    "lat":53.299087,
+    "lon":9.53517,
+    "cluster":51,
+    "country":"Germany",
+    "nearest_highway":"Zur Autobahn",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Frankenh\u00f6he Nord",
+    "lat":49.242629,
+    "lon":10.352944,
+    "cluster":52,
+    "country":"Germany",
+    "nearest_highway":"Auf der Frankenh\u00f6he",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Frankenh\u00f6he S\u00fcd",
+    "lat":49.241155,
+    "lon":10.356121,
+    "cluster":52,
+    "country":"Germany",
+    "nearest_highway":"Auf der Frankenh\u00f6he",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Auetal Nord",
+    "lat":52.223703,
+    "lon":9.221469,
+    "cluster":53,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Auetal S\u00fcd",
+    "lat":52.226977,
+    "lon":9.232545,
+    "cluster":53,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Ohligser Heide Ost",
+    "lat":51.156807,
+    "lon":6.964803,
+    "cluster":54,
+    "country":"Germany",
+    "nearest_highway":"Ohligser Weg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Ohligser Heide West",
+    "lat":51.1579,
+    "lon":6.961815,
+    "cluster":54,
+    "country":"Germany",
+    "nearest_highway":"Zur Bredharter Heide",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Lechwiesen Nord",
+    "lat":48.059266,
+    "lon":10.846791,
+    "cluster":55,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Lechwiesen S\u00fcd",
+    "lat":48.058328,
+    "lon":10.847694,
+    "cluster":55,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Donautal Ost",
+    "lat":48.588065,
+    "lon":13.366667,
+    "cluster":56,
+    "country":"Germany",
+    "nearest_highway":"Hofingerweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Donautal West",
+    "lat":48.5893395362,
+    "lon":13.3653426924,
+    "cluster":56,
+    "country":"Germany",
+    "nearest_highway":"['K\u00f6nigschaldinger Stra\u00dfe', 'Reichsgrafenstra\u00dfe']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Mannheim\/Saarbr\u00fccker Stra\u00dfe",
+    "lat":49.50707,
+    "lon":8.51633,
+    "cluster":29,
+    "country":"Germany",
+    "nearest_highway":"Weinheimer Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Isernhagen\/Opelstra\u00dfe",
+    "lat":52.4239366433,
+    "lon":9.8388472799,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"Hannoversche Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hilden\/Lindenstra\u00dfe",
+    "lat":51.16076,
+    "lon":6.9441,
+    "cluster":54,
+    "country":"Germany",
+    "nearest_highway":"Kunibertstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Leipzig\/Lehdenweg",
+    "lat":51.35015,
+    "lon":12.46451,
+    "cluster":42,
+    "country":"Germany",
+    "nearest_highway":"Kaulbachweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hamburg\/Rahel-Varnhagen-Weg",
+    "lat":53.48822,
+    "lon":10.17106,
+    "cluster":57,
+    "country":"Germany",
+    "nearest_highway":"Erika-Etter-Kehre",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":51.11766,
+    "lon":13.09764,
+    "cluster":32,
+    "country":"Germany",
+    "nearest_highway":"Waldheimer Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":52.35764,
+    "lon":13.41146,
+    "cluster":26,
+    "country":"Germany",
+    "nearest_highway":"Glasower Damm",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Kaltenkirchen",
+    "lat":53.82279,
+    "lon":9.93872,
+    "cluster":43,
+    "country":"Germany",
+    "nearest_highway":"Brookweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Schkeuditz",
+    "lat":51.400556,
+    "lon":12.210556,
+    "cluster":42,
+    "country":"Germany",
+    "nearest_highway":"Flughafenstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Leipzig\/Zwickauer Stra\u00dfe",
+    "lat":51.31345,
+    "lon":12.39243,
+    "cluster":42,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hamburg\/Cuxhavener Stra\u00dfe",
+    "lat":53.47178,
+    "lon":9.89827,
+    "cluster":58,
+    "country":"Germany",
+    "nearest_highway":"Cuxhavener Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Hamburg\/D\u00fcnenweg",
+    "lat":53.50334,
+    "lon":10.19078,
+    "cluster":57,
+    "country":"Germany",
+    "nearest_highway":"Ernst-Finder-Weg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":48.19528,
+    "lon":11.5237,
+    "cluster":59,
+    "country":"Germany",
+    "nearest_highway":"Georg-Pickl-Weg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Riesa",
+    "lat":51.30796,
+    "lon":13.29239,
+    "cluster":37,
+    "country":"Germany",
+    "nearest_highway":"S 87",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfort Charge - Leipzig\/Druckereistra\u00dfe",
+    "lat":51.38119,
+    "lon":12.31102,
+    "cluster":42,
+    "country":"Germany",
+    "nearest_highway":"Druckereistra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":50.65598,
+    "lon":12.18678,
+    "cluster":46,
+    "country":"Germany",
+    "nearest_highway":"['Bruno-Bergner-Stra\u00dfe', 'Gommlaer Berg']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":51.0179,
+    "lon":13.71833,
+    "cluster":33,
+    "country":"Germany",
+    "nearest_highway":"Dorfhainer Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral pulse Ladesation",
+    "lat":53.7180723851,
+    "lon":9.7595486128,
+    "cluster":39,
+    "country":"Germany",
+    "nearest_highway":"Lise-Meitner-Allee",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Edeka Parkplatz",
+    "lat":52.4030572294,
+    "lon":9.7888126391,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"Karl-R\u00fcter-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GoFast AdS Erstfeld",
+    "lat":46.814525,
+    "lon":8.654312,
+    "cluster":8,
+    "country":"Switzerland",
+    "nearest_highway":"B\u00e4renbodenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GoFast AdS Amsteg",
+    "lat":46.780607,
+    "lon":8.668063,
+    "cluster":8,
+    "country":"Switzerland",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"2 GZO-Fachmarktzentrum",
+    "lat":47.7741437465,
+    "lon":16.5294815169,
+    "cluster":60,
+    "country":"Austria",
+    "nearest_highway":"['GZO-Fachmarktzentrum', 'GZO-Fabriksgel\u00e4nde']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Spar St. Margarethen",
+    "lat":47.8022908092,
+    "lon":16.6200426453,
+    "cluster":60,
+    "country":"Austria",
+    "nearest_highway":"L210",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Nivelles Total Energies",
+    "lat":50.6150598614,
+    "lon":4.3013094441,
+    "cluster":61,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastned Peuti Oost",
+    "lat":50.9360884085,
+    "lon":4.4757467785,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Huinhovenstraat",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Shell Station",
+    "lat":53.5920594863,
+    "lon":9.921573565,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"Volksparkstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Living Tomorrow Brussels",
+    "lat":50.90872,
+    "lon":4.38627,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Romeinsesteenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Brecht Oost",
+    "lat":51.3208843381,
+    "lon":4.5852093361,
+    "cluster":62,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Hamminkeln",
+    "lat":51.739103,
+    "lon":6.59518,
+    "cluster":63,
+    "country":"Germany",
+    "nearest_highway":"Weikenrott",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Friedberg",
+    "lat":48.406431,
+    "lon":10.952255,
+    "cluster":64,
+    "country":"Germany",
+    "nearest_highway":"Winterbruckenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Dollenberg Ost",
+    "lat":50.688524,
+    "lon":8.295916,
+    "cluster":50,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY Augsburg Ost",
+    "lat":48.411614,
+    "lon":10.914898,
+    "cluster":64,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Industriestra\u00dfe 15 \/ McDonalds",
+    "lat":50.5515427865,
+    "lon":11.7898559292,
+    "cluster":65,
+    "country":"Germany",
+    "nearest_highway":"Industriestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"HPC HEM Tankstelle",
+    "lat":50.5501386318,
+    "lon":11.7880267095,
+    "cluster":65,
+    "country":"Germany",
+    "nearest_highway":"Industriestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW HyperHub \/ W\u00f6rth an der Donau",
+    "lat":49.0013072227,
+    "lon":12.3650703077,
+    "cluster":66,
+    "country":"Germany",
+    "nearest_highway":"St 2146",
+    "corridor":"TBD"
+  },
+  {
+    "title":"McDonald's \/ W\u00f6rth an der Donau",
+    "lat":49.0021710795,
+    "lon":12.3649258428,
+    "cluster":66,
+    "country":"Germany",
+    "nearest_highway":"Gewerbepark A",
+    "corridor":"TBD"
+  },
+  {
+    "title":"OMV Tankstelle \/ Wackersdorf",
+    "lat":49.31357,
+    "lon":12.158277,
+    "cluster":67,
+    "country":"Germany",
+    "nearest_highway":"Am Richtfeld",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Maschek Automobile VolkswagenWackersdorf",
+    "lat":49.3120646842,
+    "lon":12.1597888651,
+    "cluster":67,
+    "country":"Germany",
+    "nearest_highway":"Gewerbepark",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Tankstelle Autohof Brumby \/ Sta\u00dffurt",
+    "lat":51.896119219,
+    "lon":11.6921575082,
+    "cluster":68,
+    "country":"Germany",
+    "nearest_highway":"L 63",
+    "corridor":"TBD"
+  },
+  {
+    "title":"City Watt \/ Maldfeldstra\u00dfe 2a \/ Hamburg",
+    "lat":53.4304444576,
+    "lon":9.9346595769,
+    "cluster":58,
+    "country":"Germany",
+    "nearest_highway":"Maldfeldstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"McDonald's \/ Petersberg",
+    "lat":50.969589759,
+    "lon":11.8550346818,
+    "cluster":69,
+    "country":"Germany",
+    "nearest_highway":"Eichenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW Ladepark Eisenberg \/ Petersberg",
+    "lat":50.9690023297,
+    "lon":11.8549572869,
+    "cluster":69,
+    "country":"Germany",
+    "nearest_highway":"Eichenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"TESLA Supercharger Frechen (Tesla Only)",
+    "lat":50.917986069,
+    "lon":6.833162254,
+    "cluster":70,
+    "country":"Germany",
+    "nearest_highway":"Europaallee",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW Hypercharger Frechen",
+    "lat":50.9172258202,
+    "lon":6.8334470054,
+    "cluster":70,
+    "country":"Germany",
+    "nearest_highway":"Europaallee",
+    "corridor":"TBD"
+  },
+  {
+    "title":"53-61 Langenhorner Chaussee",
+    "lat":53.6387585594,
+    "lon":10.013162538,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"Am Raakmoorgraben",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aldi car park",
+    "lat":51.5932713089,
+    "lon":10.5582938255,
+    "cluster":71,
+    "country":"Germany",
+    "nearest_highway":"Ringstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ringstra\u00dfe",
+    "lat":51.5932417,
+    "lon":10.5582633,
+    "cluster":71,
+    "country":"Germany",
+    "nearest_highway":"Ringstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"OMV Tankstelle Sulzbacher Stra\u00dfe",
+    "lat":49.4579139681,
+    "lon":11.0931302102,
+    "cluster":72,
+    "country":"Germany",
+    "nearest_highway":"Sulzbacher Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"N-Ergie Betriebsgel\u00e4nde",
+    "lat":49.435709,
+    "lon":11.060541,
+    "cluster":72,
+    "country":"Germany",
+    "nearest_highway":"Sandreuthstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EWEgo Mc Donalds Aachener Str. K\u00f6ln",
+    "lat":50.9380431733,
+    "lon":6.8779495679,
+    "cluster":70,
+    "country":"Germany",
+    "nearest_highway":"B 55",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Allego Hub",
+    "lat":53.5818904095,
+    "lon":10.0275623847,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"Weidestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Alsterkrugchaussee",
+    "lat":53.6213498708,
+    "lon":10.0098234126,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"B 433",
+    "corridor":"TBD"
+  },
+  {
+    "title":"HAS TO BE Karawankenweg",
+    "lat":46.5979311734,
+    "lon":13.8489530304,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"Karawankenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"SMATRICS Nikolaigasse",
+    "lat":46.615159359,
+    "lon":13.8510073396,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"Nikolaigasse",
+    "corridor":"TBD"
+  },
+  {
+    "title":"GOFAST Neue Winterthurerstrasse",
+    "lat":47.4124599728,
+    "lon":8.615450072,
+    "cluster":10,
+    "country":"Switzerland",
+    "nearest_highway":"Industriestrasse",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Shell Poppenbuettel",
+    "lat":53.662980103,
+    "lon":10.0789103253,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"Harksheider Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"SuC Hall in Tirol",
+    "lat":47.2731370959,
+    "lon":11.4761234,
+    "cluster":11,
+    "country":"Austria",
+    "nearest_highway":"Schl\u00f6glstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Massenhoven",
+    "lat":51.1955199981,
+    "lon":4.638029352,
+    "cluster":73,
+    "country":"Belgium",
+    "nearest_highway":"['Robert Orlentstraat', 'Zagerijstraat']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Allego Charging station",
+    "lat":51.3368284223,
+    "lon":4.5263884504,
+    "cluster":62,
+    "country":"Belgium",
+    "nearest_highway":"Grote Heidedreef",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Villach Supercharger",
+    "lat":46.6016902653,
+    "lon":13.8833667359,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"L58",
+    "corridor":"TBD"
+  },
+  {
+    "title":"enbw Hafen",
+    "lat":49.014490186,
+    "lon":8.3107755298,
+    "cluster":74,
+    "country":"Germany",
+    "nearest_highway":"Fettweisstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Pfalzwerke Rossmann",
+    "lat":49.086194,
+    "lon":8.210559,
+    "cluster":74,
+    "country":"Germany",
+    "nearest_highway":"Nansenstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Pulse",
+    "lat":51.2419058095,
+    "lon":6.7433595365,
+    "cluster":75,
+    "country":"Germany",
+    "nearest_highway":"L 30",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Pulse",
+    "lat":51.2398345429,
+    "lon":6.7440539001,
+    "cluster":75,
+    "country":"Germany",
+    "nearest_highway":"L 30",
+    "corridor":"TBD"
+  },
+  {
+    "title":"SWD Lotsenweg",
+    "lat":51.2317419779,
+    "lon":6.7345318821,
+    "cluster":75,
+    "country":"Germany",
+    "nearest_highway":"Pariser Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Rankweil Supercharger",
+    "lat":47.2725629124,
+    "lon":9.6176929294,
+    "cluster":76,
+    "country":"Austria",
+    "nearest_highway":"L52",
+    "corridor":"TBD"
+  },
+  {
+    "title":"IONITY HPC K\u00e4rntner Stra\u00dfe",
+    "lat":46.5667334627,
+    "lon":13.8095022176,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"B83",
+    "corridor":"TBD"
+  },
+  {
+    "title":"HPC Vilniuspassage",
+    "lat":51.003855461,
+    "lon":11.0149506742,
+    "cluster":77,
+    "country":"Germany",
+    "nearest_highway":"Essener Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Globus Mittelhausen",
+    "lat":51.0346031195,
+    "lon":11.0018024063,
+    "cluster":77,
+    "country":"Germany",
+    "nearest_highway":"K 54",
+    "corridor":"TBD"
+  },
+  {
+    "title":"McDonald's Zella-Mehlis",
+    "lat":50.6437261756,
+    "lon":10.6850982346,
+    "cluster":78,
+    "country":"Germany",
+    "nearest_highway":"Industriestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"VAZ Fernitz",
+    "lat":46.973762074,
+    "lon":15.5013087621,
+    "cluster":9,
+    "country":"Austria",
+    "nearest_highway":"L371",
+    "corridor":"TBD"
+  },
+  {
+    "title":"HPC Burger King",
+    "lat":50.8604850491,
+    "lon":10.9601096927,
+    "cluster":79,
+    "country":"Germany",
+    "nearest_highway":"L 3004",
+    "corridor":"TBD"
+  },
+  {
+    "title":"HPC McDonald's",
+    "lat":50.8563713376,
+    "lon":10.9578350616,
+    "cluster":79,
+    "country":"Germany",
+    "nearest_highway":"Alfred-Ley-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"HPC Hellweg",
+    "lat":50.8491201598,
+    "lon":10.9554228364,
+    "cluster":79,
+    "country":"Germany",
+    "nearest_highway":"Bierweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Supercharger Lugano Sud",
+    "lat":45.977520133,
+    "lon":8.9284242177,
+    "cluster":1,
+    "country":"Switzerland",
+    "nearest_highway":"Via del Piano",
+    "corridor":"TBD"
+  },
+  {
+    "title":"De Wingerd ",
+    "lat":50.8891001789,
+    "lon":4.6871384461,
+    "cluster":80,
+    "country":"Belgium",
+    "nearest_highway":"Wingerdstraat",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastned",
+    "lat":50.9280480182,
+    "lon":3.9580484187,
+    "cluster":22,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Gabri\u00ebls ",
+    "lat":50.9231799085,
+    "lon":3.9486039969,
+    "cluster":22,
+    "country":"Belgium",
+    "nearest_highway":"['Beekstraat', 'Lindekouter']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Drei-\u00c4hren-B\u00e4ckerei",
+    "lat":50.6421462165,
+    "lon":10.680640024,
+    "cluster":78,
+    "country":"Germany",
+    "nearest_highway":"B 62",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Parkplatz Edeka Center ",
+    "lat":52.3668625157,
+    "lon":9.6996640734,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"Davenstedter Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Einkaufspark Klein-Buchholz",
+    "lat":52.4087015401,
+    "lon":9.8006506424,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"Adolf-Emmelmann-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Shell Recharge",
+    "lat":52.5059585797,
+    "lon":13.4597448876,
+    "cluster":35,
+    "country":"Germany",
+    "nearest_highway":"Revaler Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW (Hellweg Baumarkt)",
+    "lat":51.8227387205,
+    "lon":6.6141043141,
+    "cluster":63,
+    "country":"Germany",
+    "nearest_highway":"Dingdener Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Supermarkt Rewe und Aldi",
+    "lat":52.3385989603,
+    "lon":9.8325020881,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"L 388",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Autohof Leitner",
+    "lat":47.0090914221,
+    "lon":15.4409964117,
+    "cluster":9,
+    "country":"Austria",
+    "nearest_highway":"A2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Raststation Aistersheim",
+    "lat":48.1787574346,
+    "lon":13.7469836472,
+    "cluster":81,
+    "country":"Austria",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Beneluxpark",
+    "lat":50.8012459872,
+    "lon":3.2779346271,
+    "cluster":12,
+    "country":"Belgium",
+    "nearest_highway":"President Kennedypark",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Porsche Zentrum Hamburg Nord-West",
+    "lat":53.6212788048,
+    "lon":9.9073471327,
+    "cluster":41,
+    "country":"Germany",
+    "nearest_highway":"B 4",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Autohof",
+    "lat":51.7310399089,
+    "lon":9.9731667571,
+    "cluster":82,
+    "country":"Germany",
+    "nearest_highway":"B 3",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW Autohof Northeim",
+    "lat":51.7320692251,
+    "lon":9.9726065702,
+    "cluster":82,
+    "country":"Germany",
+    "nearest_highway":"Westerlange",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Supercharger Autohof Northeim",
+    "lat":51.7318150372,
+    "lon":9.9728714899,
+    "cluster":82,
+    "country":"Germany",
+    "nearest_highway":"Westerlange",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Tankstelle Albert-Einstein-Stra\u00dfe",
+    "lat":52.160499669,
+    "lon":9.9970433613,
+    "cluster":83,
+    "country":"Germany",
+    "nearest_highway":"Albert-Einstein-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":" EnBW HyperHub Hildesheim",
+    "lat":52.1594156789,
+    "lon":9.9943794227,
+    "cluster":83,
+    "country":"Germany",
+    "nearest_highway":"Max-Planck-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW Homepark W\u00fcrzburg",
+    "lat":49.8204657048,
+    "lon":9.9792541286,
+    "cluster":84,
+    "country":"Germany",
+    "nearest_highway":"Mainfrankenh\u00f6he",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Am Handelshof 19 - Burger King",
+    "lat":49.8184518388,
+    "lon":9.9854228334,
+    "cluster":84,
+    "country":"Germany",
+    "nearest_highway":"Zum Scheibental",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Am Handelshof 5 - Hornbach\/PENNY",
+    "lat":49.8161406955,
+    "lon":9.9813471089,
+    "cluster":84,
+    "country":"Germany",
+    "nearest_highway":"Am Handelshof",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Total Nivelle ",
+    "lat":50.6150467784,
+    "lon":4.3005433687,
+    "cluster":61,
+    "country":"Belgium",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EWE Go Hildesheim",
+    "lat":52.1607904226,
+    "lon":9.997711377,
+    "cluster":83,
+    "country":"Germany",
+    "nearest_highway":"Albert-Einstein-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Dalemstraat",
+    "lat":50.8247259205,
+    "lon":4.8173736958,
+    "cluster":80,
+    "country":"Belgium",
+    "nearest_highway":"Dalemstraat",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Fastned Boutersem ",
+    "lat":50.8253705026,
+    "lon":4.8146105637,
+    "cluster":80,
+    "country":"Belgium",
+    "nearest_highway":"N234",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aldi S\u00fcd Bonner Stra\u00dfe",
+    "lat":51.0673545113,
+    "lon":6.9903352589,
+    "cluster":70,
+    "country":"Germany",
+    "nearest_highway":"L 288",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aldi S\u00fcd Syltstra\u00dfe",
+    "lat":51.0335102712,
+    "lon":7.010688102,
+    "cluster":70,
+    "country":"Germany",
+    "nearest_highway":"['Kieler Stra\u00dfe', 'Syltstra\u00dfe']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW Stuhr",
+    "lat":53.0292144348,
+    "lon":8.8074581716,
+    "cluster":45,
+    "country":"Germany",
+    "nearest_highway":"Rudolf-Diesel-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Volvo LACOM Leuven",
+    "lat":50.8497568957,
+    "lon":4.7191350783,
+    "cluster":80,
+    "country":"Belgium",
+    "nearest_highway":"Ambachtenlaan",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Allego",
+    "lat":51.0335229043,
+    "lon":3.7565638848,
+    "cluster":22,
+    "country":"Belgium",
+    "nearest_highway":"N9",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Rheinhessen Center",
+    "lat":49.7470005064,
+    "lon":8.1377215034,
+    "cluster":85,
+    "country":"Germany",
+    "nearest_highway":"Werner-von-Siemens-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Toom Baumarkt",
+    "lat":49.7491896241,
+    "lon":8.1394165986,
+    "cluster":85,
+    "country":"Germany",
+    "nearest_highway":"Rudolf-Diesel-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aldi S\u00fcd",
+    "lat":49.7456574207,
+    "lon":8.1404581929,
+    "cluster":85,
+    "country":"Germany",
+    "nearest_highway":"Karl-Heinz-Kipp-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Bauhaus",
+    "lat":49.0179724573,
+    "lon":8.3549106127,
+    "cluster":74,
+    "country":"Germany",
+    "nearest_highway":"Sonnenstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Trigema EnBW HPC",
+    "lat":50.8323928409,
+    "lon":9.5731455587,
+    "cluster":86,
+    "country":"Germany",
+    "nearest_highway":"Unknown",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Pfalzwerke",
+    "lat":49.0405119704,
+    "lon":8.2890237144,
+    "cluster":74,
+    "country":"Germany",
+    "nearest_highway":"Maximilianstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Tankstelle Backnang ",
+    "lat":48.959127334,
+    "lon":9.4226973552,
+    "cluster":87,
+    "country":"Germany",
+    "nearest_highway":"Manfred-von-Ardenne-Allee",
+    "corridor":"TBD"
+  },
+  {
+    "title":"ATU Backnang ",
+    "lat":48.9365353427,
+    "lon":9.436644504,
+    "cluster":87,
+    "country":"Germany",
+    "nearest_highway":"Industriestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Sechsheldener Stra\u00dfe",
+    "lat":50.7474423754,
+    "lon":8.2552719701,
+    "cluster":50,
+    "country":"Germany",
+    "nearest_highway":"Schulstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"SMATRICS BILLA K\u00e4rntner Stra\u00dfe",
+    "lat":46.5501054162,
+    "lon":13.6987982224,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"B83",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EWE Go Reinfeld",
+    "lat":53.8233938315,
+    "lon":10.5021968329,
+    "cluster":88,
+    "country":"Germany",
+    "nearest_highway":"An der Autobahn",
+    "corridor":"TBD"
+  },
+  {
+    "title":"EnBW Action Reinfeld",
+    "lat":53.8238609148,
+    "lon":10.5019088806,
+    "cluster":88,
+    "country":"Germany",
+    "nearest_highway":"An der Autobahn",
+    "corridor":"TBD"
+  },
+  {
+    "title":"DB Services Groot-Bijgaarden DC",
+    "lat":50.870844,
+    "lon":4.274152,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Spoorwegstraat",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Tesla Supercharger Cadenazzo",
+    "lat":46.1520194633,
+    "lon":8.9372824068,
+    "cluster":7,
+    "country":"Switzerland",
+    "nearest_highway":"Via Campo delle Vigne",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Tesla Supercharger Locarno",
+    "lat":46.1666340061,
+    "lon":8.7960122596,
+    "cluster":7,
+    "country":"Switzerland",
+    "nearest_highway":"Via Serafino Balestra",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Tangla Hotel Brussels",
+    "lat":50.8531415859,
+    "lon":4.4491642281,
+    "cluster":15,
+    "country":"Belgium",
+    "nearest_highway":"Avenue Hippocrate - Hippokrateslaan",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Allego - Hoegaarden - Rommersom",
+    "lat":50.7799734354,
+    "lon":4.9189905115,
+    "cluster":80,
+    "country":"Belgium",
+    "nearest_highway":"N29",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Allego Bertem",
+    "lat":50.8616976646,
+    "lon":4.6137055941,
+    "cluster":80,
+    "country":"Belgium",
+    "nearest_highway":"N3",
+    "corridor":"TBD"
+  },
+  {
+    "title":"McDonalds",
+    "lat":47.9231365022,
+    "lon":7.7082917648,
+    "cluster":89,
+    "country":"Germany",
+    "nearest_highway":"Freiburger Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Tesla Supercharger Li\u00e8ge",
+    "lat":50.671055413,
+    "lon":5.5433656076,
+    "cluster":14,
+    "country":"Belgium",
+    "nearest_highway":"N682",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Tesla Supercharger Hannover ",
+    "lat":52.4232452442,
+    "lon":9.8350266453,
+    "cluster":31,
+    "country":"Germany",
+    "nearest_highway":"Opelstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Wismar",
+    "lat":53.89321901,
+    "lon":11.5130901542,
+    "cluster":30,
+    "country":"Germany",
+    "nearest_highway":"Am Ring",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Massenhoven",
+    "lat":51.203886,
+    "lon":4.647288,
+    "cluster":73,
+    "country":"Belgium",
+    "nearest_highway":"N14",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Oberhausen",
+    "lat":51.489858,
+    "lon":6.887918,
+    "cluster":34,
+    "country":"Germany",
+    "nearest_highway":"Brammenring",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Dettelbach",
+    "lat":49.777979,
+    "lon":10.068774,
+    "cluster":84,
+    "country":"Germany",
+    "nearest_highway":"Mainfrankenpark",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Eching",
+    "lat":48.310848,
+    "lon":11.646729,
+    "cluster":90,
+    "country":"Germany",
+    "nearest_highway":"Dieselstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Garching",
+    "lat":48.249323,
+    "lon":11.634365,
+    "cluster":90,
+    "country":"Germany",
+    "nearest_highway":"Parkring",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Meerane",
+    "lat":50.840764,
+    "lon":12.445016,
+    "cluster":38,
+    "country":"Germany",
+    "nearest_highway":"['Hohe Stra\u00dfe', 'Seiferitzer Allee']",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Quickborn",
+    "lat":53.742827,
+    "lon":9.943171,
+    "cluster":43,
+    "country":"Germany",
+    "nearest_highway":"Auf dem Halenberg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Bornheim",
+    "lat":50.762035,
+    "lon":7.029519,
+    "cluster":40,
+    "country":"Germany",
+    "nearest_highway":"Carl-Benz-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Dietmannsried",
+    "lat":47.811904,
+    "lon":10.302936,
+    "cluster":91,
+    "country":"Germany",
+    "nearest_highway":"OA 19",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Zella-Mehlis",
+    "lat":50.644224,
+    "lon":10.685195,
+    "cluster":78,
+    "country":"Germany",
+    "nearest_highway":"Industriestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Meggenhofen",
+    "lat":48.183412,
+    "lon":13.785334,
+    "cluster":81,
+    "country":"Austria",
+    "nearest_highway":"L519",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Eberstalzell",
+    "lat":48.039206,
+    "lon":13.990725,
+    "cluster":24,
+    "country":"Austria",
+    "nearest_highway":"Solarstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Ansfelden",
+    "lat":48.21099,
+    "lon":14.279478,
+    "cluster":23,
+    "country":"Austria",
+    "nearest_highway":"A1",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Oftringen",
+    "lat":47.304254,
+    "lon":7.929495,
+    "cluster":0,
+    "country":"Switzerland",
+    "nearest_highway":"Flurstrasse",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Silvaplana",
+    "lat":46.45563,
+    "lon":9.790636,
+    "cluster":4,
+    "country":"Switzerland",
+    "nearest_highway":"3",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Ionity Kirchheim (Tal) 2",
+    "lat":50.833347,
+    "lon":9.573252,
+    "cluster":86,
+    "country":"Germany",
+    "nearest_highway":"K 32",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Kerpen Supercharger",
+    "lat":50.8977569068,
+    "lon":6.6822510573,
+    "cluster":92,
+    "country":"Germany",
+    "nearest_highway":"Kerpener Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"McDonald's Sindorf",
+    "lat":50.8967075375,
+    "lon":6.6823148078,
+    "cluster":92,
+    "country":"Germany",
+    "nearest_highway":"K 39",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Electra charging station ",
+    "lat":51.209628,
+    "lon":3.25504,
+    "cluster":93,
+    "country":"Belgium",
+    "nearest_highway":"'t Veld",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Electra charging station ",
+    "lat":51.209628,
+    "lon":3.25504,
+    "cluster":93,
+    "country":"Belgium",
+    "nearest_highway":"'t Veld",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Electra charging station ",
+    "lat":51.22654,
+    "lon":3.206764,
+    "cluster":93,
+    "country":"Belgium",
+    "nearest_highway":"N371",
+    "corridor":"TBD"
+  },
+  {
+    "title":"M\u00fcller & Egerer Wei\u00dfenmoorstra\u00dfe 297",
+    "lat":53.1856115456,
+    "lon":8.201782161,
+    "cluster":94,
+    "country":"Germany",
+    "nearest_highway":"Am Stadtrand",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Oktan Tankstelle Nadorster Stra\u00dfe ",
+    "lat":53.1650018536,
+    "lon":8.2251265455,
+    "cluster":94,
+    "country":"Germany",
+    "nearest_highway":"Nadorster Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"\u041e\u0434\u0440\u0438\u043d",
+    "lat":42.5096465915,
+    "lon":27.45192981,
+    "cluster":95,
+    "country":"Bulgaria",
+    "nearest_highway":"\u041e\u0434\u0440\u0438\u043d",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Evroserviz LTD",
+    "lat":42.447677,
+    "lon":27.39483,
+    "cluster":95,
+    "country":"Bulgaria",
+    "nearest_highway":"79",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Kaufland Hecklinger Str.",
+    "lat":51.8513521603,
+    "lon":11.5606986081,
+    "cluster":68,
+    "country":"Germany",
+    "nearest_highway":"Hecklinger Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"An der Salzrinne 1 - ALDI",
+    "lat":51.8510114691,
+    "lon":11.597718313,
+    "cluster":68,
+    "country":"Germany",
+    "nearest_highway":"Bodestra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Supercharger Dietmannsried",
+    "lat":47.8114063402,
+    "lon":10.3031964142,
+    "cluster":91,
+    "country":"Germany",
+    "nearest_highway":"OA 19",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Kemptthal Supercharger",
+    "lat":47.4518086004,
+    "lon":8.704438047,
+    "cluster":10,
+    "country":"Switzerland",
+    "nearest_highway":"A1;A4",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral Pulse Alte R\u00f6mer Strasse 50",
+    "lat":48.2599084236,
+    "lon":11.4699934394,
+    "cluster":59,
+    "country":"Germany",
+    "nearest_highway":"St 2063",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":52.5658934443,
+    "lon":13.493115305,
+    "cluster":35,
+    "country":"Germany",
+    "nearest_highway":"Barther Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Comfortcharge Ladestation",
+    "lat":49.920494933,
+    "lon":8.8561378423,
+    "cluster":44,
+    "country":"Germany",
+    "nearest_highway":"L 3094",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Aral pulse",
+    "lat":50.9522449694,
+    "lon":6.9615380109,
+    "cluster":70,
+    "country":"Germany",
+    "nearest_highway":"Sedanstra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Linnestra\u00dfe 7",
+    "lat":48.0162522072,
+    "lon":7.8131083735,
+    "cluster":89,
+    "country":"Germany",
+    "nearest_highway":"Im Rehwinkel",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Im Maierbr\u00fchl 15",
+    "lat":47.9840772249,
+    "lon":7.7187517713,
+    "cluster":89,
+    "country":"Germany",
+    "nearest_highway":"Im Maierbr\u00fchl",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Herzogstandstr. 5-7",
+    "lat":49.413641269,
+    "lon":11.1180732773,
+    "cluster":72,
+    "country":"Germany",
+    "nearest_highway":"Karl-Sch\u00f6nleben-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Michael-Vogel-Stra\u00dfe 3",
+    "lat":49.5885751707,
+    "lon":11.0003042718,
+    "cluster":36,
+    "country":"Germany",
+    "nearest_highway":"Michael-Vogel-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Langgasse 122",
+    "lat":47.271992,
+    "lon":9.617144,
+    "cluster":76,
+    "country":"Austria",
+    "nearest_highway":"L52",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Tesla Supercharger Lermoos",
+    "lat":47.3948657795,
+    "lon":10.8875244386,
+    "cluster":13,
+    "country":"Austria",
+    "nearest_highway":"Bachtlweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Villach Supercharger",
+    "lat":46.604164,
+    "lon":13.869183,
+    "cluster":20,
+    "country":"Austria",
+    "nearest_highway":"Maria-Gailer-Stra\u00dfe",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Innsbruck Supercharger",
+    "lat":47.264861,
+    "lon":11.428453,
+    "cluster":11,
+    "country":"Austria",
+    "nearest_highway":"Grabenweg",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Monte Ceneri Supercharger",
+    "lat":46.13916,
+    "lon":8.907291,
+    "cluster":7,
+    "country":"Switzerland",
+    "nearest_highway":"2",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Derendinger AG in Aarau",
+    "lat":47.4019464,
+    "lon":8.0647782,
+    "cluster":27,
+    "country":"Switzerland",
+    "nearest_highway":"Neumattstrasse",
+    "corridor":"TBD"
+  },
+  {
+    "title":" Fast E - E17 Total Nazareth-Zuid to Gent Nazareth",
+    "lat":50.9708875077,
+    "lon":3.6104665697,
+    "cluster":28,
+    "country":"Belgium",
+    "nearest_highway":"Langedreef",
+    "corridor":"TBD"
+  },
+  {
+    "title":"Total Nazareth E17 rich. Kortrijk",
+    "lat":50.9739006354,
+    "lon":3.6162172258,
+    "cluster":28,
+    "country":"Belgium",
+    "nearest_highway":"Langedreef",
+    "corridor":"TBD"
+  }
+]
